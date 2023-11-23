@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+vendor
+payment-gateway-service
+*-env.sh
+*.env
+env.sh

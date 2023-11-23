@@ -1,0 +1,7 @@
+export DB_USER="postgres"
+export DB_PASS="postgres"
+export DB_HOST="localhost"
+export DB_PORT="5432"
+export DB_NAME="dbname"
+export DBUrl="postgres://username:password@localhost:5432/dbname?sslmode=disable"
+export APP_PORT=":8080"
